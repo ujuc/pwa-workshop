@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountNames": {
-      "value": "paw1218"
+      "value": "paw1218,paw121802"
     },
     "keyVaultName": {
       "value": "kv1218-pwa"
